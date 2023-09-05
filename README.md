@@ -53,6 +53,7 @@ df.head()
     
 ## 2. 대표적인 인공지능 API
 ### 2.1 구글
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommunity.appinventor.mit.edu%2Ft%2Fgoogle-cloud-vision%2F54528&psig=AOvVaw2lAtf3-aW2jGuQtPf39kGx&ust=1693966087321000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCOjCv8qxkoEDFQAAAAAdAAAAABAD
 * [Vision API](https://cloud.google.com/vision?hI=ko)
 * 이미지 크기 조정 불가
 ![vision_api_log](./vision_api_logo.png) 
